@@ -9,4 +9,11 @@ p {
 }
 a {
 	text-decoration: none;
+	color: rgb(167, 1, 68);
+}
+a:hover {
+	text-decoration: underline;
+}
+#daily-challenges {
+	color: blueviolet;
 }
