@@ -1,10 +1,15 @@
-h1 {
+body {
 	text-align: center;
+	background-color: rgb(233, 215, 107);
+	margin: 50px;
+}
+h1 {
+	
 	color: brown;
 	text-transform: capitalize;
 }
 p {
-	text-align: center;
+	
 	font-family: sans-serif;
 }
 a {
@@ -12,8 +17,13 @@ a {
 	color: rgb(167, 1, 68);
 }
 a:hover {
-	text-decoration: underline;
+	text-decoration: wavy;
 }
 #daily-challenges {
 	color: blueviolet;
+}
+img {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
 }

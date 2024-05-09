@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    margin: 50px;
+    background-color: rgb(233, 215, 107);
+    font-family: Arial,  sans-serif;
+    color: rgb(85, 75, 75);
+}
+a {
+    text-decoration: none;
+}
